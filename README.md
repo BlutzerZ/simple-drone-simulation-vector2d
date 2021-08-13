@@ -1,4 +1,4 @@
-# simple-drone-simulation-vector2d
+# simple drone simulation vector2d
 Simple Drone simualtion with vector2d
 
 
